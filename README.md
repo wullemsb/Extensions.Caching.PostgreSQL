@@ -1,3 +1,8 @@
+# **UPDATE**
+I archived this project in favor of the Microsoft.Extensions.Caching.Postgres library: https://www.nuget.org/packages/Microsoft.Extensions.Caching.Postgres
+
+More info: https://techcommunity.microsoft.com/blog/azuredevcommunityblog/postgres-as-a-distributed-cache-unlocks-speed-and-simplicity-for-modern-net-work/4462139
+
 # Extensions.Caching.PostgreSQL
 Distributed cache implementation of IDistributedCache using PostgreSQL
 
